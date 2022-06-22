@@ -1,0 +1,7 @@
+Bibliotecas
+
+Adafruit NeoPixel Library. Disponível em:
+https://adafruit.github.io/Adafruit_NeoPixel/html/class_adafruit___neo_pixel.html
+
+DFPlayer Mini Fast. Disponível em:
+https://github.com/PowerBroker2/DFPlayerMini_Fast

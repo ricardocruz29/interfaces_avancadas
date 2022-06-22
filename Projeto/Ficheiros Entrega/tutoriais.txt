@@ -1,0 +1,16 @@
+Tutoriais
+
+COMO FAZER UM MP3 PLAYER COM ARDUINO [Utilizando o módulo DFPlayer Mini]. (2021).
+Disponível em: https://www.youtube.com/watch?v=Js6xaEcjegw&ab_channel=ArduinoMaker
+
+Become a Master of the Fade In Fade Out Effect (Arduino Style). (2021). 
+Disponível em: https://www.youtube.com/watch?v=unIR9nLVYWA&ab_channel=ArduinoIntro
+
+How to Use a Soil Moisture Sensor. (2019). 
+Disponível em: https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-soil-moisture-sensor-ce769b 
+
+HOW TO CONVERT THE LDR (Light Dependent Resistor) VALUE TO LUX. (2017). 
+Disponível em: https://invootech.blogspot.com/2017/06/how-to-convert-ldr-dependent-resistor.html
+
+Motion Sensor | Arduino Tutorial. 
+Disponível em: https://arduinogetstarted.com/tutorials/arduino-motion-sensor
